@@ -9,6 +9,10 @@ git add .
 提交文件到本地 git 仓库
 git commit -m "提交日志"
 
+撤销操作
+git add .
+git commit --amend
+
 创建分支
 git branch 'branchname
 
