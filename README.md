@@ -9,6 +9,20 @@ git add .
 提交文件到本地 git 仓库
 git commit -m "提交日志"
 
+创建分支
+git branch 'branchname
+
+切换分支
+git checkout 'branchname
+
+创建并切换分支
+git checkout -b 'branchname
+
+删除本地分支
+git branch -d 'branchname
+删除远程分支
+git push origin --delete 'originbranchname
+
 代码回滚到最近一次提交
 git stash
 
