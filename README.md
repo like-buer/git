@@ -3,8 +3,8 @@
 创建并初始化 git
 git init
 
-提交文件只暂存区
+提交文件到暂存区
 git add .
 
-提交文件
-git commit
+提交文件到本地 git 仓库
+git commit -m "提交日志"
