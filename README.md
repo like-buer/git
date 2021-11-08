@@ -8,3 +8,6 @@ git add .
 
 提交文件到本地 git 仓库
 git commit -m "提交日志"
+
+代码回滚到最近一次提交
+git stash
